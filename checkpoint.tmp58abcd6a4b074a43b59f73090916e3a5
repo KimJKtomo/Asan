@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Hyeonseok\\Desktop\\dcscn-super-resolution-ver1\\SRGAN\\Keras-SRGAN\\Keras_to_TF"
+all_model_checkpoint_paths: "C:\\Users\\Hyeonseok\\Desktop\\dcscn-super-resolution-ver1\\SRGAN\\Keras-SRGAN\\Keras_to_TF"
