@@ -64,5 +64,5 @@
 ## 👤 Author
 
 김진규 (Jinkyu Kim)  
-선임 연구원 / 서울아산병원 의공학연구소 HEART lab (2019–2023)  
+주임 연구원 / 서울아산병원 의공학연구소 HEART lab (2019–2023)  
 📧 [GitHub Profile](https://github.com/KimJKtomo)
